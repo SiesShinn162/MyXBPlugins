@@ -15,6 +15,8 @@
 
 --> Plugins cannot be sold in any form!
 
+--> These plugins are only supported in Vietnamese
+
 --> không bán 
 
 --> share thì ghi cre!
